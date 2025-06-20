@@ -28,4 +28,4 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS) e apaixonado por tecno
 
 ## 📊 Minhas Estatísticas no GitHub
 
-![Estatísticas do GitHub de AllendroFilipe](https://github-readme-stats.vercel.app/api?username=AllendroFilipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Estatísticas do GitHub de AllendroFilipe](https://github-readme-stats.vercel.app/api?username=AllendroFilipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br)
