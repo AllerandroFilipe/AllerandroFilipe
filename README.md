@@ -22,7 +22,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS) e apaixonado por tecno
 
 ## 📫 Como me Encontrar
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allendro-filipe)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/allendro-filipe](https://www.linkedin.com/in/allerandro-filipe-60b086195/))
 
 <br>
 
